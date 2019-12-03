@@ -1,0 +1,21 @@
+version: '3'
+services:
+  web:
+    build:
+      context: ./gan_shmuel_green/providers/
+    ports:
+      - 8089:5000
+
+  mysql:
+    build:
+      context: ./gan_shmuel_green/providers/
+      dockerfile: Dockerfile.sql
+    environment:
+      MYSQL_DATABASE: billdb
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_ROOT_HOST: 0.0.0.0
+      MYSQL_USER: root
+      MYSQL_PASSWORD: 123
+
+
+

@@ -1,0 +1,9 @@
+infinite enat
+past SG en NEG vos eno
+past PL enish NEG vos enosh
+present SG1 enak NEG vos enok
+present PL1 enaki NEG vos enoki
+present SG2 eni NEG vos eni
+present PL2 eni NEG vos eni
+present SG3 ena NEG vos eno
+present PL3 eni NEG vos eni

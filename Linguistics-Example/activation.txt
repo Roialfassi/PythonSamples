@@ -1,0 +1,13 @@
+python hw1.py enat en Output
+python hw1.py rissat risse Output
+python hw1.py azolat azo Output
+python hw1.py fatilat fati Output
+python hw1.py zalat zal Output
+python hw1.py essalat essa Output
+python hw1.py astat ast Output
+python hw1.py kaffat kaffe Output
+python hw1.py halelat hale Output
+python hw1.py saffat saffe Output
+python hw1.py kaaaat kaaae Output
+python hw1.py kalat kale Output
+python hw1.py kxlat kale Output
